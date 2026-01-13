@@ -1,0 +1,3 @@
+[group.adguard]
+download = ["https://raw.githubusercontent.com/ppfeufer/adguard-filter-list/refs/heads/master/blocklist"]
+
